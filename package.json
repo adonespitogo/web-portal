@@ -43,7 +43,7 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "bootswatch": "^3.3.7",
-    "clipboard": "^2.0.1",
+    "clipboard": "2.0.1",
     "dom4": "^2.0.1",
     "howler": "^2.0.12",
     "image-preloader": "^1.1.1",
